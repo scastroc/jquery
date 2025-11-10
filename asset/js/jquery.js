@@ -50,3 +50,5 @@ $(() => {
     $('#nombre, #edad').val('');
   });
 });
+
+// un comentario nuevo
